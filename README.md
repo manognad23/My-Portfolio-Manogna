@@ -1,73 +1,111 @@
-# Welcome to your Lovable project
+# 🌐 Manogna Shree Dasari – Developer Portfolio
 
-## Project info
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Framework-38BDF8)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+A **modern, premium developer portfolio** built to showcase my **Full Stack, AI/ML, and Computer Vision projects** with an elegant UI, smooth animations, and a recruiter-focused layout.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+# 🚀 Live Demo
 
-**Use Lovable**
+🔗 **Portfolio Website**  
+https://your-portfolio-link.com
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+# 🧑‍💻 About Me
 
-**Use your preferred IDE**
+Hi, I'm **Manogna Shree Dasari**, a **Computer Science undergraduate at IIIT Sri City (2026)** passionate about building scalable software and intelligent systems.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+My interests include:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Backend Engineering
+- Data-Driven Systems
 
-Follow these steps:
+This portfolio highlights my technical projects, skills, certifications, and academic journey.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# ✨ Features
 
-# Step 3: Install the necessary dependencies.
-npm i
+- 🌗 **Dark & Light Theme**
+- 🎨 **Premium UI / UX**
+- ⚡ **Smooth animations with Framer Motion**
+- 📱 **Fully responsive design**
+- 🧠 **AI/ML and Computer Vision project showcase**
+- 🖥 **Full Stack application showcase**
+- 📄 **Resume download**
+- 📧 **Contact form with EmailJS**
+- 🚀 **Fast performance using Vite**
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+# 🛠 Tech Stack
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
+### Frontend
 - React
-- shadcn-ui
+- TypeScript
 - Tailwind CSS
+- shadcn-ui
 
-## How can I deploy this project?
+### Animations
+- Framer Motion
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+### Tools
+- Vite
+- EmailJS
+- Git & GitHub
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+# 📂 Portfolio Sections
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+The portfolio contains the following sections:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### 🏠 Hero
+Professional introduction with resume and contact options.
+
+### 👩‍💻 About
+Overview of my technical background and interests.
+
+### 🧠 Skills
+Technologies and tools across development and AI.
+
+### 🚀 Projects
+Projects categorized into:
+
+- **Featured Full Stack Projects**
+- **AI / Machine Learning Projects**
+- **Computer Vision / OpenCV Projects**
+- **Other Development Projects**
+
+### 🎓 Education
+
+- **IIIT Sri City**  
+  B.Tech in Computer Science & Engineering (2022–2026)
+
+- **Sri Chaitanya PU College**  
+  Secondary Education (2020–2022)
+
+- **New Cambridge English School**  
+  Schooling (2013–2020)
+
+### 📜 Certifications
+
+- Google Generative AI Study Jam
+- IIT Madras AI/ML Research Conference
+- Accenture SQL Certification
+- Deloitte Technology Virtual Experience
+
+### 📬 Contact
+
+Interactive contact form powered by **EmailJS**.
+
+
